@@ -53,9 +53,16 @@ Computer Science Student • Aspiring Software Developer • Content Creator
 ### 🚀 Featured Projects
 
 #### 🔍 TraceProof
-An AI-powered project focused on analyzing information and providing structured results.
 
-`Python` `FastAPI` `Next.js` `AI`
+**Evidence-backed developer skill verification from real GitHub history.**
+
+TraceProof analyzes real development activity to help verify technical skills using evidence instead of relying only on claims.
+
+`TypeScript` `AI` `Developer Tools`
+
+⭐ One of my major projects, built while exploring AI and real-world software development.
+
+👉 [Explore TraceProof](https://github.com/divyasripeketi-design/TraceProof)
 
 #### 🤖 Divya AI Agent
 My journey into building an intelligent AI assistant while learning how AI applications work.
